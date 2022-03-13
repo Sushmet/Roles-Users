@@ -22,4 +22,4 @@ python3 company.py
 7. Delete User
 8. Number of users from top
 9. Height of role hierarchy
-10.Common boss of users
+10.Common boss of user.
