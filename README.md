@@ -3,9 +3,9 @@ An sample python program that lets you view the hierarchy structure of an compan
 An individual can hold only one role and report to only one supervisor.
 
 ## Reading the program
-1.File [Roles-Hierarchy.py] - contains the driver code.
+1.File [Roles_Hierarchy.py] - contains the driver code.
 
-2.File [Defined-Roles.py] -  defines the properties of role, defined via class **ROLES_HIERARCHY**
+2.File [Defined_Roles.py] -  defines the properties of role, defined via class **ROLES_HIERARCHY**
  It contains the various methods of the program.
 
 ## Running the program
