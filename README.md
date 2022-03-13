@@ -3,8 +3,10 @@ An sample python program that lets you view the hierarchy structure of an compan
 An individual can hold only one role and report to only one supervisor.
 
 ## Reading the program
-1.File [company.py](/company.py) contains the driver code.
-2.File [role.py](/role.py) defines the properties of role, defined via class **ROLES_HIERARCHY**
+1.File [company.py] - contains the driver code.
+
+2.File [role.py] -  defines the properties of role, defined via class **ROLES_HIERARCHY**
+ It contains the various methods of the program.
 
 ## Running the program
 ```bash
@@ -12,7 +14,6 @@ python3 company.py
 ```
 
 ## Available methods/functions
-
 1. Add Sub Role
 2. Display Roles
 3. Delete Role
